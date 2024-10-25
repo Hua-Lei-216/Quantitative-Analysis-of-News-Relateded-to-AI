@@ -11,7 +11,7 @@ Frequency statistics, word cloud, news time frequency, keywords popularity analy
 Python  
 Selenium library  
 
-**Members**
+**Members**  
 Webscraping: Xiaoyu LIU, Hua LEI
 Text analysis: Yanyu WU, Yishu WU, Sijia WANG
 
