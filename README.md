@@ -1,5 +1,6 @@
 **Project Title**  
-Quantitative-Analysis-of-News-Relateded-to-AI
+Quantitative-Analysis-of-News-Relateded-to-AI  
+
 **Description**  
 1. Web Scraping News Related AI to from People's Daily  
 Scraping 1,000 news articles related to artificial intelligence from the People's Daily website using Python. It also includes text analysis of the collected articles to extract insights and trends.
