@@ -12,6 +12,6 @@ Python
 Selenium library  
 
 **Members**  
-Webscraping: Xiaoyu LIU, Hua LEI
+Webscraping: Xiaoyu LIU, Hua LEI  
 Text analysis: Yanyu WU, Yishu WU, Sijia WANG
 
